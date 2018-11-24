@@ -24,7 +24,7 @@ if(isset($_GET['logout'])){
     <div><center><table><tr><td><h1>ระบบฐานข้อมูล TbsFilterSupply</h1></td><td><img src="logo.png"></td></tr></table></div>
       <ul>
   <li><a class="active" href="index.php">Home</a></li>
-  
+  <li><a href="contact.php">Contact</a></li>
   <li style="float:right;"><a  href="index.php?logout=true">LOGOUT</a></li>
       </ul>
       <br><br>
